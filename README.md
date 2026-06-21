@@ -1,6 +1,4 @@
 <div align="center">
-
-# 👋 Hi, I'm Mohamed Ragab
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Mohamed%20Ragab&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20PHP%20%26%20Laravel&descAlignY=60"/>
 </p>
