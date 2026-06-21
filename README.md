@@ -104,16 +104,15 @@ Building scalable web applications and continuously improving my software engine
 
 ## 🚀 Featured Projects
 
-### ✅ Task Management System
+### 📋 Task Management System
 
 A web application designed to help users organize, manage, and track their tasks efficiently.
 
-**Tech Stack**
+**Built With**
 
-* PHP
-* Laravel
-* MySQL
-* JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" />
+</p>
 
 ---
 
@@ -121,20 +120,16 @@ A web application designed to help users organize, manage, and track their tasks
 
 A full-stack web application built with Laravel and Blade, aiming to provide practical solutions and a seamless user experience.
 
-**Tech Stack**
+**Built With**
 
-* PHP
-* Laravel
-* Blade
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap" />
+</p>
 
 ---
 
 🚀 More projects are coming soon...
+
 
 ---
 
