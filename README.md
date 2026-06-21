@@ -6,11 +6,11 @@
 
 <br><br>
 
-* Backend Developer | PHP & Laravel
+#### Backend Developer | PHP & Laravel
 
-* Electronics & Communication Engineering Student
+#### Electronics & Communication Engineering Student
 
-* Building scalable web applications and continuously improving my software engineering skills.
+#### Building scalable web applications and continuously improving my software engineering skills.
 
 </div>
 
