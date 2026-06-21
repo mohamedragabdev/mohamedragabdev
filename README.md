@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=220&section=header&text=Mohamed%20Ragab&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20PHP%20%26%20Laravel&descAlignY=60)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117,58A6FF&height=220&section=header&text=Mohamed%20Ragab&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20PHP%20%26%20Laravel&descAlignY=65)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;PHP+%26+Laravel;Building+Scalable+Web+Applications;Always+Learning+and+Building"/>
 
