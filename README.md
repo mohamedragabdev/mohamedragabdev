@@ -153,12 +153,6 @@ A full-stack web application built with Laravel and Blade, aiming to provide pra
 
 ---
 
-<div align="center">
-
-⭐ Always learning, building, and improving.
-
-</div>
----
 
 ## 🐍 Contribution Snake
 
@@ -168,3 +162,9 @@ A full-stack web application built with Laravel and Blade, aiming to provide pra
 
 </div>
 
+---
+<div align="center">
+
+⭐ Always learning, building, and improving.
+
+</div>
