@@ -1,22 +1,47 @@
-# Hi, I'm Mohamed Ragab 👋
+<div align="center">
 
-Backend Developer specializing in PHP & Laravel.
+# 👋 Hi, I'm Mohamed Ragab
 
-## 🚀 Tech Stack
-- PHP
-- Laravel
-- MySQL
-- JavaScript
-- HTML
-- CSS
-- Git & GitHub
+### Backend Developer | PHP & Laravel
 
-## 📚 Currently Learning
-- Advanced Laravel
-- REST APIs
-- Design Patterns
+Electronics & Communication Engineering Student
 
-  ---
+Building scalable web applications and continuously improving my software engineering skills.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Electronics & Communication Engineering Student.
+* 💻 Backend Developer specializing in PHP & Laravel.
+* 🌱 Currently learning Advanced Laravel and Software Architecture.
+* 🚀 Passionate about building scalable web applications.
+* 📚 Always learning and improving.
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 🌱 Current Focus
+
+* Advanced Laravel
+* REST APIs
+* Authentication & Authorization
+* Design Patterns
+* Software Architecture
+* Linux
+
+---
 
 ## 📊 GitHub Stats
 
@@ -50,10 +75,78 @@ Backend Developer specializing in PHP & Laravel.
 
 ---
 
+## 🏆 GitHub Trophies
 
-## 📫 Contact Me
-LinkedIn:
-www.linkedin.com/in/mohamed-r-ragab
+<div align="center">
 
-Email:
-mohammed.ragab.business@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedragabdev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Git Course
+
+Exercises and notes while learning Git and GitHub.
+
+**Tech Stack**
+
+* Git
+* GitHub
+
+---
+
+### 📖 Laravel Course
+
+Projects and exercises while learning Laravel.
+
+**Tech Stack**
+
+* PHP
+* Laravel
+* MySQL
+
+---
+
+### 🩺 Shifago (Coming Soon)
+
+Healthcare platform connecting patients with doctors.
+
+**Tech Stack**
+
+* Laravel
+* PHP
+* MySQL
+* JavaScript
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamed-r-ragab">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammed.ragab.business@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Philosophy
+
+> Continuous improvement beats perfection.
+
+---
+
+<div align="center">
+
+⭐ Always learning, building, and improving.
+
+</div>
