@@ -79,8 +79,7 @@ Building scalable web applications and continuously improving my software engine
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedragabdev&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedragabdev&theme=onedark&no-frame=true"/>
 </div>
 
 ---
