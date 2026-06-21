@@ -26,7 +26,7 @@ Building scalable web applications and continuously improving my software engine
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git,github,vscode,linux" />
 
 </div>
 
@@ -40,6 +40,16 @@ Building scalable web applications and continuously improving my software engine
 * Design Patterns
 * Software Architecture
 * Linux
+
+---
+
+## 🎯 2026 Goals
+
+* Master Laravel
+* Learn Linux
+* Build Production-ready Applications
+* Improve Software Architecture Skills
+* Contribute to Open Source
 
 ---
 
@@ -75,51 +85,49 @@ Building scalable web applications and continuously improving my software engine
 
 ---
 
-## 🏆 GitHub Trophies
+## 📑 Profile Summary
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedragabdev&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p></div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedragabdev&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📚 Git Course
+### ✅ Task Management System
 
-Exercises and notes while learning Git and GitHub.
-
-**Tech Stack**
-
-* Git
-* GitHub
-
----
-
-### 📖 Laravel Course
-
-Projects and exercises while learning Laravel.
+A web application designed to help users organize, manage, and track their tasks efficiently.
 
 **Tech Stack**
 
 * PHP
 * Laravel
-* MySQL
-
----
-
-### 🩺 Shifago (Coming Soon)
-
-Healthcare platform connecting patients with doctors.
-
-**Tech Stack**
-
-* Laravel
-* PHP
 * MySQL
 * JavaScript
+
+---
+
+### 👨‍💻 Zamil (In Development)
+
+A full-stack web application built with Laravel and Blade, aiming to provide practical solutions and a seamless user experience.
+
+**Tech Stack**
+
+* PHP
+* Laravel
+* Blade
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* MySQL
+
+---
+
+🚀 More projects are coming soon...
 
 ---
 
