@@ -158,11 +158,13 @@ A full-stack web application built with Laravel and Blade, aiming to provide pra
 ⭐ Always learning, building, and improving.
 
 </div>
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohamedragabdev/mohamedragabdev/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://raw.githubusercontent.com/mohamedragabdev/mohamedragabdev/output/github-contribution-grid-snake.svg)
 
 </div>
 
