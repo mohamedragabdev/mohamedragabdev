@@ -104,32 +104,73 @@
 
 ## 🚀 Featured Projects
 
-### 📋 Task Management System
+### 💬 Vexo — RESTful Messaging API
 
-A web application designed to help users organize, manage, and track their tasks efficiently.
+A RESTful messaging API built with Laravel, featuring secure authentication, conversation management, and participant-based access control.
+
+**Key Features**
+- Phone number-based registration and authentication.
+- Laravel Sanctum token authentication.
+- Conversation and message management.
+- Authorization using Laravel Policies.
+- Automated testing with Pest.
 
 **Built With**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
+</p>
+
+**Status:** In Development
+
+🔗 [GitHub Repository](https://github.com/mohamedragabdev/vexo)
+
+---
+
+### 🏥 Shifago — Medical Home Services
+
+A healthcare platform designed to connect patients with medical home services, providing a convenient way to access healthcare solutions.
+
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js"/>
 </p>
 
 ---
 
-### 👨‍💻 Zamil (In Development)
+### 🧠 GlucoRAG — Medical Retrieval-Augmented Generation
 
-A full-stack web application built with Laravel and Blade, aiming to provide practical solutions and a seamless user experience.
+A medical RAG system designed to retrieve relevant information from medical documents and generate context-aware responses using AI.
 
 **Built With**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+</p>
+
+**Technologies**
+- FastAPI
+- LangChain
+- Supabase
+- PostgreSQL & pgvector
+- OpenAI Embeddings
+
+---
+
+### 🧭 ADHD Compass
+
+A project focused on supporting individuals with ADHD through technology-driven solutions.
+
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
 </p>
 
 ---
 
 🚀 More projects are coming soon...
-
 
 ---
 
