@@ -129,44 +129,49 @@ A RESTful messaging API built with Laravel, featuring secure authentication, con
 
 ### 🏥 Shifago — Medical Home Services
 
-A healthcare platform designed to connect patients with medical home services, providing a convenient way to access healthcare solutions.
+A full-stack healthcare platform designed to connect patients with medical home services, providing a convenient and accessible healthcare experience.
 
 **Built With**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js"/>
-</p>
-
----
-
-### 🧠 GlucoRAG — Medical Retrieval-Augmented Generation
-
-A medical RAG system designed to retrieve relevant information from medical documents and generate context-aware responses using AI.
-
-**Built With**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap"/>
 </p>
 
 **Technologies**
-- FastAPI
-- LangChain
-- Supabase
-- PostgreSQL & pgvector
-- OpenAI Embeddings
+- Laravel & Blade — Backend and server-side rendering
+- HTML, CSS & JavaScript — Frontend
+- Bootstrap — Responsive UI
+- Axios — HTTP requests
+- MySQL — Database
 
 ---
 
-### 🧭 ADHD Compass
+### 🩺 GlucoRAG — Medical RAG System
 
-A project focused on supporting individuals with ADHD through technology-driven solutions.
+A full-stack medical Retrieval-Augmented Generation (RAG) system that combines modern web technologies with AI-powered retrieval and generation to provide context-aware responses based on medical documents.
 
 **Built With**
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,tailwind,mysql,python,fastapi"/>
 </p>
+
+**Technologies**
+- Laravel — Backend API
+- React & Tailwind CSS — Frontend
+- MySQL — Relational Database
+- FastAPI — AI/RAG Service
+- LangChain — RAG Pipeline
+- Supabase & pgvector — Vector Search
+- OpenAI Embeddings — Semantic Search
+
+---
+
+### 🧭 ADHD Compass — In Development
+
+A technology-driven project focused on supporting individuals with ADHD through practical digital solutions.
+
+**Status:** In Development
 
 ---
 
